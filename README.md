@@ -7,7 +7,7 @@ Welcome to the **Asteroids Game** project! This is a Python-based implementation
 ## Table of Contents
 1. [Installation](#installation)
 2. [How to Play](#how-to-play)
-3. [Controls](##controls)
+3. [Controls](#controls)
 4. [Dependencies](#dependencies)
 
 ---
